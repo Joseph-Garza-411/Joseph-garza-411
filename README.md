@@ -1,12 +1,4 @@
-- 👋 Hi, I’m @Joseph-garza-411
-- 👀 I’m interested in exercising, spending quality time with my family, 
-and having exceptionally nice holidays with my loved ones while enjoying splendid meals. 
-- 🌱 I’m currently learning to become a Full Stack Blockchain Developer. 
-- 💞️ I’m looking to collaborate on projects that entail deepening my understanding of the Blockchain 
-as well as developing decentralized applications and the languages that are required for all of that good stuff. 
-- 📫 How to reach me is at the e-mail address I use practically everyday which is teacherjosephg@gmail.com or at 
-joseph.garza.411@icloud.com
-
+- 👋 Hello! My name's Francisco Garza but I go by Joseph Garza! I've liked the way it rings in my ears and sounds forever. Exercising and enjoying splendid meals is my passion. I have enjoyed working with languages and recently endeavored into language interpretation. My aim is to develop a portfolio website where I can shed light on all things interpretation. 
 <!---
 Joseph-garza-411/Joseph-garza-411 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
